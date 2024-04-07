@@ -1,5 +1,12 @@
-### Hi, I'm Shevcheno Bogdan 👋
+## Hey 
+I'm Shevchenko Bogdan, a 20 years old web developer from Moscow.
 
+## Skills
+- 👨‍💻 TypeScript/JavaScript
+- ⚙️ React, Next, Redux Toolkit, Zustand, Node.js
+- 👁️ SASS, SCSS, CSS, Tailwind, Figma
+- 💽 PostgreSQL, MongoDB
++ a lot more :D
 <!--
 **Fac3Hunter/Fac3Hunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
